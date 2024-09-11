@@ -3,5 +3,4 @@
 - 🌱 I’m currently learning Kotlin, C++, Python for AI, html, and css. I already have the intermediate skills in these languages and am now going for expertise
 - 💞️ I’m looking to collaborate on full stack development for both web and mobile application
 - 📫 How to reach me: email: lieson.work@gmail.com, linkedIn : www.linkedin.com/in/lieson-лайсон-mwale-мвале-b7487b216
-- 😄 Pronouns: He
 - ⚡ Fun fact: I only make applications that are business related and I start by identifying the business before jumping into codes
